@@ -1,0 +1,14 @@
+Clases = PascalCase
+
+metodos = Varialvel = camelCase
+
+objetos/instancia = normalmente acompanhados pelo 'new'
+
+atributos ficam entre a assinatura e o metodo da classe, para que todos que estejao dentro da classe possao ter acesso a ele.
+
+I/O = input / output
+
+Classe com metodo main = executaveis
+
+next = só primeira linha
+nextLine = linha toda
